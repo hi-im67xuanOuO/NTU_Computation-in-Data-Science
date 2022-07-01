@@ -1,5 +1,6 @@
 # NTU - Computation in Data Science - 110-1
 NTU - 資料科學與計算 Computation in Data Science (110-1)
+syllabus: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=221%20U8270&class=&dpt_code=9460&ser_no=13954&semester=110-1&lang=CH
 
 ### About HW1
 Comparisons of the Algorithms：
