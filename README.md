@@ -2,10 +2,17 @@
 NTU - 資料科學與計算 Computation in Data Science (110-1)
 
 ### About HW1
-Topic: Algorithms - Hill Climbing, Random Walk, Simulated Annealing(SA), Tabu Search(TS), Ant Colony, Particle Swarm Optimization(PSO), Genetic Algorithm(GA).
+Comparisons of the Algorithms：
+1. Hill Climbing
+2. Random Walk
+3. Simulated Annealing(SA)
+4. Tabu Search(TS)
+5. Ant Colony
+6. Particle Swarm Optimization(PSO)
+7. Genetic Algorithm(GA).
 
 ### About HW2
-Topic: Application of data science in biomedicine
+Application of data science in biomedicine
 
 ### About HW3
-Topic: Mathematics for Data Science
+Mathematics for Data Science
